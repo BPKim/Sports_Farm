@@ -1,0 +1,32 @@
+.my-border-o {
+	border-color: orange;
+}
+
+
+.my-left {
+    float:left;
+}
+.my-right {
+    float:right;
+}
+
+.inner-box {
+        border: 2px solid lightblue;
+        padding: 4px;
+        white-space: nowrap;
+        overflow: hidden;
+        margin: 2px;
+}
+    
+ .outer-box {
+        border: 1px solid pink;
+        padding: 4px;
+        white-space: nowrap;
+        overflow: hidden;
+        margin-top: 2px;
+        margin-bottom: 2px;
+}
+
+.my-font20 {
+	font-size: 20px;
+}

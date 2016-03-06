@@ -1,0 +1,59 @@
+/*배경*/
+.menu_background{
+	background-image: url('MainBackground.png'); 
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 1040px;
+	width: 1920px;
+	text-align:center;
+}
+
+
+.schedule_background{
+	background-image: url('MainSchedule.png'); 
+	background-size: contain;
+	background-repeat: no-repeat;
+	text-align:center;
+	height: 247px;
+	width: 615px;
+}
+
+.table_background{
+	background-image: url('MainTable.png'); 
+	background-size: contain;
+	background-repeat: no-repeat;
+	text-align:center;
+	height: 370px;
+	width: 615px;
+}
+
+/*랭크 테이블 tap 3가지*/
+.tap_teamRank {
+	width: 100px;
+	height: 70px;
+	font-size: 25px;
+	margin-left:15px;
+	padding-top:20px;
+	Text-align:center;
+	text-align: center;
+}
+
+.tap_pitcherRank {
+	width: 100px;
+	height: 70px;
+	font-size: 25px;
+	margin-left:15px;
+	padding-top:20px;
+	Text-align:center;
+	text-align: center;
+}
+
+.tap_hitterRank {
+	width: 100px;
+	height: 70px;
+	font-size: 25px;
+	margin-left:15px;
+	padding-top:20px;
+	Text-align:center;
+	text-align: center;
+}

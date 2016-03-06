@@ -1,0 +1,11 @@
+/*¹è°æ*/
+.highlight_background{
+	background-image: url('HighlightBackground.png'); 
+	background-size: contain;
+	background-repeat: no-repeat;
+	/*margin-left:30px;*/
+	/*margin-bottom:10px;*/
+	height: 1040px;
+	width: 1920px;
+	text-align:center;
+}

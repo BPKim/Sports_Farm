@@ -1,0 +1,8 @@
+.calender_background{
+	background-image: url('ScheduleBackground.png'); 
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 1040px;
+	width: 1920px;
+	text-align:center;
+}

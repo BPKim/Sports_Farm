@@ -1,0 +1,70 @@
+/*팀랭크 테이블*/
+.body_column_style{
+	/*border: 1px solid #e30450;*/
+	background:white;
+	color:#202020;
+	padding:5px;
+	font-size:20px;
+	text-align:center;
+}
+.column_style{
+	/*border: 2px solid gray;*/
+	background:#e30450;
+	color:white;
+	padding:5px;
+	font-size:18px;
+	text-align:center;
+}
+.width60{
+	width:60px;
+}
+.width72{
+	width:72px;
+}
+.width80{
+	width:80px;
+}
+.width94{
+	width:94px;
+}
+
+
+/*투수, 타자 테이블*/
+.pitcherTable_Tap, .hitterTabel_Tap{
+	background-color: #e30450;
+	color:white;
+	padding:5px;
+	font-size:20px;
+	text-align: center;
+}
+
+.pitcherTable_1st_Player, .hitterTabel_1st_Player {
+	margin-right: 5px;
+	width: 68px;
+	height: 86px;
+}
+
+.pitcherTable_1st_Player_Number, .hitterTabel_1st_Player_Number {
+	color: red;
+	margin: 5px;
+	font-size: 20px;
+}
+
+.pitcherTable_1st_Player_Name, .hitterTabel_1st_Player_Name {
+	color: blue;
+	margin: 5px;
+	font-size: 20px;
+}
+
+.pitcherTable_1st_Player_Team, .hitterTabel_1st_Player_Team {
+	margin: 5px;
+	font-size: 20px;
+}
+
+.pitcherTable_remainder_Player, .hitterTabel_remainder_Player {
+	color: #202020;
+	margin-left: 10px;
+	margin-bottom: 15px;
+	font-family: 'Malgun Gothic';
+	font-size: 20px;
+}

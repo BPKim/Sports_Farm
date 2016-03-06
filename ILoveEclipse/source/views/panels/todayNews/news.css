@@ -1,0 +1,99 @@
+
+/* ¹è°æ */
+.todayNews_background{
+	background-image: url('NEWSBackground.png'); 
+	background-size: contain;
+	background-repeat: no-repeat;
+	/*margin-left:30px;*/
+	/*margin-bottom:10px;*/
+	height: 1040px;
+	width: 1920px;
+	text-align:center;
+}
+
+/***********newsPage***********/
+.news_detail {
+	font-family: 'Malgun Gothic';
+	font-size: 30px;
+	color: black;
+	padding: 23px;
+	margin: 20px;
+}
+
+.news_scroller {
+	margin-bottom: 60px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 20px;
+	background-color: #f0f0f0;
+	border: 1px solid #cccccc;
+	height: 480px;
+}
+
+.news_title {
+	text-align: center;
+	margin-left:285px;
+	padding-top:20px;
+	color: white;
+	font-family: 'Malgun Gothic';
+	font-size: 60px;
+}
+
+/**********todayNewsPanel**********/
+
+/*
+.todayNews_homeButton {
+	background-color: white;
+	color: black;
+}*/
+
+.headLine, .interview, .breakingNews{
+	font-size: 70px;
+	color: white;
+	font-weight: bold;
+}
+
+.headLine_arrow{
+	margin-top:350px; 
+	color:white;
+	font-size: 300px;
+}
+
+.headLine_text1 {
+	background-color: #aaaaaa;
+	color: black;
+	padding: 5px;
+	font-weight: bold;
+	font-family: 'Malgun Gothic';
+	font-size: 26px;
+}
+
+.headLine_text2 {
+	background-color: #cccccc;
+	color: black;
+	height:70px;
+	padding: 5px;
+	font-family: 'Malgun Gothic';
+	font-size: 23px;
+}
+
+.interview_outbox, .breakingNews_outbox{
+	padding: 10px;
+	width: 850px;
+	height: 250px;
+	background: white;
+}
+
+.interview_title, .breakingNews_title {
+	font-family: 'Malgun Gothic';
+	font-size: 25px;
+	font-weight:bold;
+	margin: 5px;
+	color: black;
+}
+
+.interview_img, .breakingNews_img {
+	width: 300px;
+	height: 192px;
+	margin: 10px;
+}
